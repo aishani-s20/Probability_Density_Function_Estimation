@@ -1,6 +1,6 @@
 # Air Quality Probability Density Function Estimation using Roll-Number-Parameterized Non-Linear Model
 
-This project implements a non-linear data transformation and parameter estimation for **Nitrogen Dioxide (NO2)** levels based on the India Air Quality dataset. The transformation parameters are uniquely determined by a **University Roll Number** to ensure personalized modeling as required by the assignment guidelines[cite: 2, 10].
+This project implements a non-linear data transformation and parameter estimation for **Nitrogen Dioxide (NO2)** levels based on the India Air Quality dataset. The transformation parameters are uniquely determined by a **University Roll Number** to ensure personalized modeling as required by the assignment guidelines.
 
 ---
 
